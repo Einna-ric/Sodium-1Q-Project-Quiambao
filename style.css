@@ -1,0 +1,255 @@
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(212, 235, 238);
+}
+
+a{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.header{
+    background-color: rgb(80, 132, 136);
+    padding: 10px;
+    display:flex;
+}
+
+.header img {
+    width:  80px;
+    height: 80px;
+}
+
+
+.content{
+    margin-top: 50px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.content h3{
+    font-size: 30px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 400px;
+}
+
+.navactive a {
+    color: rgb(0, 0, 0);
+}
+
+.classR {
+    display: flex;
+    font-family: 'Times New Roman', Times,serif;
+    flex-direction: column;
+    text-align: center;
+}
+
+.section1{
+   display: flex;
+   margin-top: -20px;
+   flex-direction: column;
+}
+
+.article1{
+    display: flex;
+    gap: 50px;
+    flex-direction: row;
+    align-items: center;
+}
+
+.article1 img{
+    margin-left: 100px;
+    height: 200px;
+    width: 400px;
+
+}
+
+.article1 h3{
+    padding: 30px;
+    margin-bottom: 200px;
+}
+
+.article2 h3{
+    padding: 30px;
+    margin-bottom: 120px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+.sun p{
+    display: flex;text-align: justify;
+    margin-bottom: 30px;
+    margin-left: -250px;
+}
+.class p{
+    font-size: 30px;
+    flex-direction: row;
+    text-align: center;
+}
+
+.article2{
+    display: flex;
+    gap: 50px;
+    flex-direction: row;
+    align-items: center;
+    margin-top: -100px;
+}
+
+.article2 img{
+    margin-right: 100px;
+    margin-top: 130px;
+    height: 200px;
+    width: 400px;
+}
+
+.mon p{
+    text-align: justify;
+    margin-bottom: 50px;
+    margin-left: -700px;
+    margin-top: 180px;
+    padding: 70px;
+
+}
+
+.article2 h3{
+    padding: 30px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+.section2{
+   display: flex;
+   margin-top: 50px;
+}
+
+.article3{
+    display: flex;
+    gap: 50px;
+    flex-direction: column;
+    align-items: center;
+    margin-left:150px;
+}
+
+.article3 img{
+    height: 250px;
+    width: auto;
+}
+
+.article3 p{
+    padding: 50px;
+}
+
+.article3 h3{
+    padding: 30px;
+    margin-bottom: 120px;
+    margin-left: -10px;
+    font-size: 25px
+}
+
+.tue p{
+    margin-top: -200px;
+    text-align: justify;
+    display: flex;
+}
+
+.wed p{
+    margin-top: -200px;
+    text-align: justify;
+    display: flex;
+}
+
+
+.article4{
+    display: flex;
+    gap: 50px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.article4 img{
+    height: 250px;
+    width: auto;
+}
+.article4 p{
+    padding: 200px;
+    padding-top:50px;
+}
+
+.article4 h3{
+    padding: 30px;
+    margin-bottom: 120px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+.contentabout {
+    margin: 30px;
+    margin-top: 50px;
+}
+
+.Q{
+    font-size: 30px;
+    flex-direction: column;
+    text-align: center;
+    margin-top: auto;
+}
+
+.schedule h1{
+    font-size: 30px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.stuff {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.article5 img {
+    width: 300px;
+    height: 300px;
+    padding: 70px;
+}
+
+.article5 {
+    margin-top: -40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.article5 p{
+    padding:70px;
+    font-size: 25px;
+}
+
+
+.schedule h1{
+    font-size: 30px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.schedule {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.contentabout {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
